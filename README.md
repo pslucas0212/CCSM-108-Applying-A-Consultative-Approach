@@ -8,5 +8,5 @@
 - Understand a framework for being consultative
 - Arm you with practical toosl that will help you be more consultative day-to-day
 
-  ## Why the consultative approach is important
+## Why the consultative approach is important
   
