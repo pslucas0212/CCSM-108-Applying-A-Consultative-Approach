@@ -1,2 +1,1 @@
-# CCSM-108-Applying-A-Consultative-Approach
-CCSM-108: Applying A Consultative Approach
+# CSM-108: Applying A Consultative Approach
