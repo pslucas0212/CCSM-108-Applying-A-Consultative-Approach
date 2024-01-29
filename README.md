@@ -9,4 +9,8 @@
 - Arm you with practical toosl that will help you be more consultative day-to-day
 
 ## Why the consultative approach is important
+Ask the customer what they are trying to accomplish?  What's the business problem the customer is trying to address? Don't get into the technical details of the product.  There maybe other solution options if you understand the problem well.  You'll need to understand this to make a business case to your software development team.
+
+## The Consultative Framework
+
   
